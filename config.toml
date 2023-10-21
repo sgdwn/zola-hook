@@ -5,7 +5,7 @@ base_url = "https://inputusername.github.io/zola-hook/"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
 
 title = "Hook"
 description = "Hook is a theme for Zola"
